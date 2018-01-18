@@ -9,7 +9,7 @@ La idea de este tutorial es realizar una introducción al concepto de ORM y al u
 
 El siguiente diagrama muestra las entidades a construir. Cada una de estas entidades representará a una tabla en la base de datos.
 
-<p align="center"><img src="diagram.png" height="600"></p>
+<p align="center"><img src="diagram.png" height="350"></p>
 
 ### Ejecución
 
