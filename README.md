@@ -23,4 +23,4 @@ python3 -B -m pytest --testdox tests/
 
 Esto ejecutará el test de consultas mostrándonos cuáles han pasado y cuáles han fallado:
 
-<p align="center"><img src="tests.png" height="500"></p>
+<p align="center"><img src="tests.png" height="600"></p>
