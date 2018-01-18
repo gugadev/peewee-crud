@@ -17,10 +17,10 @@ Primero debemos ejecutar el archivo `app.py` para crear la base de datos y hacer
 
 Para comprobar que las consultas realizadas en el archivo `tests/queries.test` devuelven los datos esperados, ejecutar:
 
-```python
+```bash
 python3 -B -m pytest --testdox tests/
 ```
 
 Esto ejecutará el test de consultas mostrándonos cuáles han pasado y cuáles han fallado:
 
-<p align="center"><img src="tests.png" height="400"></p>
+<p align="center"><img src="tests.png" height="500"></p>
